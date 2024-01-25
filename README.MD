@@ -4,7 +4,7 @@
 
 Neste projeto foi criado uma página com o objetivo de adicionar ou remover perfis favoritos do GitHub usando uma API do GitHub.
 
-This project was a responsive page with a grid and animations for the cards and titles
+In this project, a page was created with the aim of adding or removing favorite GitHub profiles using a GitHub API.
 
 ## Layout
 #### Tela com favoritos adicionados / Screen with favorites added
