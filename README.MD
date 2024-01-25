@@ -10,7 +10,7 @@ In this project, a page was created with the aim of adding or removing favorite 
 #### Tela com favoritos adicionados / Screen with favorites added
 ![screen1](./assets/gitfavorites_screen1.png)
 
-#### Tela com favoritos adicionados / Screen with no favorites
+#### Tela sem favoritos adicionados / Screen with no favorites
 ![screen2](./assets/gitfavorites_screen2.png)
 
 
